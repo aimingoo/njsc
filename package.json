@@ -1,0 +1,16 @@
+{
+  "name": "njsc",
+  "description": "Chana In NodeJS. The Chana is a Avro Data Store based on Akka, renamed from astore.",
+  "author": {
+    "name": "aimingoo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aimingoo/njsc.git"
+  },
+  "dependencies": {
+    "require": "git+https://github.com/request/request"
+  },
+  "main": "njsc.js",
+  "version": "2.0.0"
+}
